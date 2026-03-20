@@ -52,5 +52,5 @@ mock_interviewer/
 - First run downloads the Whisper model (~150MB), subsequent runs are instant
 - All sessions are saved locally in the `sessions/` folder
 
-PROJECT DEMO VIDEO LINK = [
-](https://drive.google.com/file/d/1MtqMWYXHmfVxCihg6aTJDi0rPrb_zuG0/view?usp=sharing)
+PROJECT DEMO VIDEO LINK = 
+(https://drive.google.com/file/d/1MtqMWYXHmfVxCihg6aTJDi0rPrb_zuG0/view?usp=sharing)
